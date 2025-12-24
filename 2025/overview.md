@@ -17,7 +17,7 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 |:--------------------------|:------
 | **Vedal**                 | Every
 | **Neuro**                 | Every
-| **Evil**                  | [01](https://www.youtube.com/watch?v=gNysylzZocU), [03](https://www.youtube.com/watch?v=pNEK1wtLtoI), [04](https://www.youtube.com/watch?v=GraI2RiQpAA), [05/1](https://www.youtube.com/watch?v=k97cns4k3i0)
+| **Evil**                  | [01](https://www.youtube.com/watch?v=gNysylzZocU), [03](https://www.youtube.com/watch?v=pNEK1wtLtoI), [04](https://www.youtube.com/watch?v=GraI2RiQpAA), [05/1](https://www.youtube.com/watch?v=k97cns4k3i0), [05/2](https://www.youtube.com/watch?v=Q47IvKkzV8M)
 | **Neuro & Evil together** | [01](https://www.youtube.com/watch?v=gNysylzZocU), [04](https://www.youtube.com/watch?v=GraI2RiQpAA), [05/1](https://www.youtube.com/watch?v=k97cns4k3i0)
 | Crelly                    | [01](https://www.youtube.com/watch?v=gNysylzZocU)
 | Camila                    | [01](https://www.youtube.com/watch?v=gNysylzZocU), [04](https://www.youtube.com/watch?v=GraI2RiQpAA)
