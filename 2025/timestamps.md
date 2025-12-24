@@ -36,7 +36,7 @@
 - [05:48:04](https://youtube.com/watch?v=gNysylzZocU&t=05h48m04s) About plans for tomorrow
 - [06:03:23](https://youtube.com/watch?v=gNysylzZocU&t=06h03m23s) About aphantasia
 - [06:20:04](https://youtube.com/watch?v=gNysylzZocU&t=06h20m04s) Night content demonstration
-- [06:23:14](https://youtube.com/watch?v=gNysylzZocU&t=06h23m14s) Neuro goes to sleep -> Vedal leaves
+- [06:23:14](https://youtube.com/watch?v=gNysylzZocU&t=06h23m14s) Neuro goes to sleep \| Vedal leaves
 
 ## Day 02 ([Part 04](https://www.youtube.com/watch?v=mfOj0HDL4ac))
 
