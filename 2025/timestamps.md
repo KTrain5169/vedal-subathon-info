@@ -1,5 +1,8 @@
 # 2025 Subathon Timestamps
 
+- TOC
+{:toc}
+
 ## Day 01 ([Part 01](https://youtu.be/gNysylzZocU))
 
 - [00:29:44](https://youtu.be/gNysylzZocU?t=00h29m44s) *Colorful Array — Neuro-sama*
