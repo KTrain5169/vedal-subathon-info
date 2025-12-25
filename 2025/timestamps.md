@@ -156,7 +156,7 @@
 - [01:10:35](https://youtube.com/watch?v=Q47IvKkzV8M&t=01h10m35s) Camila joins for 1m51s
 - [02:20:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h20m13s) **Hype Train Record broken**
 - [02:21:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h21m45s) Mini joins for 9s
-- [02:28:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h28m06s) Mini joins for 6s
+- [02:28:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h28m06s) Cerber joins for 6s
 - [02:38:52](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h38m52s) An unknown amount of people join for 26s
 - [02:43:28](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h43m28s) Vedal leaves for 2m1s
 - [02:56:56](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h56m56s) Hype train ended at 99% Level 123
