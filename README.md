@@ -16,7 +16,7 @@ I plan to add the following in the future likely once the subathon is finished:
 - Content overview and partial timestamps for the 2024 subathon
 - Subathon content overview
 
-Also thanks to @KTrain5169 for helping out with the repo.
+Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with the repo.
 
 ## Links
 
