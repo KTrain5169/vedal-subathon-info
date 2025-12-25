@@ -7,6 +7,7 @@
 [04](https://youtu.be/GraI2RiQpAA)
 [05/1](https://youtu.be/k97cns4k3i0)
 [05/2](https://youtu.be/Q47IvKkzV8M)
+[06](https://youtu.be/nWMdSHBnlBs)
 -->
 
 ## Participants
@@ -40,7 +41,7 @@ Also contains games, even if they have not (yet) recurred.
 | Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI)
 | 3D Neuro (no VRChat)                      | [02](https://youtu.be/mfOj0HDL4ac), [04](https://youtu.be/GraI2RiQpAA)
 | Art review                                | [02](https://youtu.be/mfOj0HDL4ac)
-| Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M)
+| Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs)
 | Karaoke                                   | [03](https://youtu.be/pNEK1wtLtoI)
 | Inscryption (Integrated)                  | [03](https://youtu.be/pNEK1wtLtoI)
 | Poker (Integrated)                        | [04](https://youtu.be/GraI2RiQpAA)
@@ -58,3 +59,5 @@ Also contains games, even if they have not (yet) recurred.
 | Neuro buys stocks (sub goal)              | [04](https://youtu.be/GraI2RiQpAA)
 | Hype Train world record broken            | [05/2](https://youtu.be/Q47IvKkzV8M)
 | IRL stream in Japan                       | [05/2](https://youtu.be/Q47IvKkzV8M)
+| Themed stream: Fishing                    | [06](https://youtu.be/nWMdSHBnlBs)
+| Themed stream: Fortune Telling / Tarot    | [06](https://youtu.be/nWMdSHBnlBs)

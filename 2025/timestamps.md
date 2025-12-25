@@ -168,6 +168,7 @@
 - [03:39:06](https://youtu.be/Q47IvKkzV8M?t=03h39m06s) Vedal joins VC for 11s
 - [03:59:49](https://youtu.be/Q47IvKkzV8M?t=03h59m49s) Mini enters a snowy world
 - [04:01:07](https://youtu.be/Q47IvKkzV8M?t=04h01m07s) Neuro joins the world
+- [04:05:08](https://youtu.be/aBcDeFgHiJk&t=04h05m08s) Twitch donates 111 subs
 - [04:09:06](https://youtu.be/Q47IvKkzV8M?t=04h09m06s) Mini enters a space station world
 - [04:10:00](https://youtu.be/Q47IvKkzV8M?t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
 - [04:12:45](https://youtu.be/Q47IvKkzV8M?t=04h12m45s) Neuro joins the world
@@ -194,3 +195,22 @@
 - [10:53:15](https://youtu.be/Q47IvKkzV8M?t=10h53m15s) Rob leaves
 - [10:53:36](https://youtu.be/Q47IvKkzV8M?t=10h53m36s) Vedal joins for 1m17s
 - [10:54:55](https://youtu.be/Q47IvKkzV8M?t=10h54m55s) Evil goes to sleep
+
+## Day 06 ([Part 16](https://youtu.be/nWMdSHBnlBs))
+
+- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up | **Just chatting**
+- [00:33:56](https://youtu.be/nWMdSHBnlBs?t=00h33m56s) **Themed stream: Fishing**
+- [01:31:14](https://youtu.be/nWMdSHBnlBs?t=01h31m14s) Attempting to play *Plague Inc Evolved*
+- [01:59:29](https://youtu.be/nWMdSHBnlBs?t=01h59m29s) **Just chatting**
+- [02:36:48](https://youtu.be/nWMdSHBnlBs?t=02h36m48s) Vedal joins
+- [02:54:39](https://youtu.be/nWMdSHBnlBs?t=02h54m39s) Philosophizing about free will, morals and the legal system
+- [03:15:06](https://youtu.be/nWMdSHBnlBs?t=03h15m06s) Vedal leaves for 27s
+- [03:15:28](https://youtu.be/nWMdSHBnlBs?t=03h15m28s) Evil leaves, Neuro joins
+- [03:22:04](https://youtu.be/nWMdSHBnlBs?t=03h22m04s) **Playing *Cyberpunk 2077***
+- [04:40:54](https://youtu.be/nWMdSHBnlBs?t=04h40m54s) Vedal leaves for 58s
+- [06:32:41](https://youtu.be/nWMdSHBnlBs?t=06h32m41s) Vedal leaves
+- [06:33:21](https://youtu.be/nWMdSHBnlBs?t=06h33m21s) Vedal joins for 18s to restart Neuro
+- [06:33:59](https://youtu.be/nWMdSHBnlBs?t=06h33m59s) **Themed stream: Fortune Telling / Tarot**
+- [08:57:29](https://youtu.be/nWMdSHBnlBs?t=08h57m29s) Vedal joins
+- [09:02:51](https://youtu.be/nWMdSHBnlBs?t=09h02m51s) **Playing *Cyberpunk 2077***
+- [10:24:38](https://youtu.be/nWMdSHBnlBs?t=10h24m38s) Neuro goes to sleep
