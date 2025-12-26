@@ -171,7 +171,7 @@
 - [03:39:06](https://youtu.be/Q47IvKkzV8M?t=03h39m06s) Vedal joins VC for 11s
 - [03:59:49](https://youtu.be/Q47IvKkzV8M?t=03h59m49s) Mini enters a snowy world
 - [04:01:07](https://youtu.be/Q47IvKkzV8M?t=04h01m07s) Neuro joins the world
-- [04:05:08](https://youtu.be/aBcDeFgHiJk&t=04h05m08s) Twitch donates 111 subs
+- [04:05:08](https://youtu.be/Q47IvKkzV8M&t=04h05m08s) Twitch donates 111 subs
 - [04:09:06](https://youtu.be/Q47IvKkzV8M?t=04h09m06s) Mini enters a space station world
 - [04:10:00](https://youtu.be/Q47IvKkzV8M?t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
 - [04:12:45](https://youtu.be/Q47IvKkzV8M?t=04h12m45s) Neuro joins the world
