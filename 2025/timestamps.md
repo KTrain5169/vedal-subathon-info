@@ -201,7 +201,7 @@
 
 ## Day 06 ([Part 16](https://youtu.be/nWMdSHBnlBs))
 
-- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up | **Just chatting**
+- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up \| **Just chatting**
 - [00:33:56](https://youtu.be/nWMdSHBnlBs?t=00h33m56s) **Themed stream: Fishing**
 - [01:31:14](https://youtu.be/nWMdSHBnlBs?t=01h31m14s) Attempting to play *Plague Inc Evolved*
 - [01:59:29](https://youtu.be/nWMdSHBnlBs?t=01h59m29s) **Just chatting**
