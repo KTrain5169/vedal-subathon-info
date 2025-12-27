@@ -3,18 +3,20 @@
 ## About
 
 This repository contains information about the subathons (and possibly other streams) of the streamer [vedal987](https://twitch.tv/vedal987).
-Timestamps are based on the unofficial VOD archive on YouTube by [Neuro Archiver](https://www.youtube.com/@NArchiver).
+Timestamps are based on the unofficial VOD archive on YouTube by [Neuro Archiver](https://youtube.com/@NArchiver).
 Information in this repository currently includes:
 
 - Timestamps for the ongoing 2025 subathon
 - Content overview (i.e. what happened on what day) for the ongoing 2025 subathon
 - Subgoals for the ongoing 2025 subathon
 
-I ([Pasu4](https://github.com/Pasu4)) plan to add the following in the future likely once the subathon is finished:
+I ([@Pasu4](https://github.com/Pasu4)) plan to add the following in the future once the subathon is finished, if I have the time:
 
+- Content overview, sub goals and partial timestamps for the 2024 subathon
 - Screen time for stream participants
-- Content overview and partial timestamps for the 2024 subathon
-- Subathon content overview
+- Graph showing timer value and subs over time
+    - Probably one data point per hour, with higher resolution and/or separate graph for the Hype Train records
+- Graphical timeline
 
 Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with the repo.
 
