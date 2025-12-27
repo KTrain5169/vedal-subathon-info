@@ -8,6 +8,7 @@
 [05/1](https://youtu.be/k97cns4k3i0)
 [05/2](https://youtu.be/Q47IvKkzV8M)
 [06](https://youtu.be/nWMdSHBnlBs)
+[07](https://www.youtu.be/BqPaismpTn4)
 -->
 
 ## Participants
@@ -18,8 +19,8 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 |:--------------------------|:------
 | **Vedal**                 | Every
 | **Neuro**                 | Every
-| **Evil**                  | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M)
-| **Neuro & Evil together** | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0)
+| **Evil**                  | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://www.youtu.be/BqPaismpTn4)
+| **Neuro & Evil together** | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [07](https://www.youtu.be/BqPaismpTn4)
 | Crelly                    | [01](https://youtu.be/gNysylzZocU)
 | Camila                    | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA)
 | Minikomew                 | [01](https://youtu.be/gNysylzZocU), [05/2](https://youtu.be/Q47IvKkzV8M)
@@ -36,16 +37,17 @@ Also contains games, even if they have not (yet) recurred.
 
 | Content                                   | Days
 |:------------------------------------------|:------
+| Just chatting                             | Every
 | VRChat                                    | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M)
 | Connections                               | [01](https://youtu.be/gNysylzZocU)
-| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI)
+| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [07](https://www.youtu.be/BqPaismpTn4)
 | 3D Neuro (no VRChat)                      | [02](https://youtu.be/mfOj0HDL4ac), [04](https://youtu.be/GraI2RiQpAA)
-| Art review                                | [02](https://youtu.be/mfOj0HDL4ac)
-| Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs)
-| Karaoke                                   | [03](https://youtu.be/pNEK1wtLtoI)
+| Art review                                | [02](https://youtu.be/mfOj0HDL4ac), [07](https://www.youtu.be/BqPaismpTn4)
+| Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://www.youtu.be/BqPaismpTn4)
+| Karaoke                                   | [03](https://youtu.be/pNEK1wtLtoI), [07](https://www.youtu.be/BqPaismpTn4)
 | Inscryption (Integrated)                  | [03](https://youtu.be/pNEK1wtLtoI)
 | Poker (Integrated)                        | [04](https://youtu.be/GraI2RiQpAA)
-| Minecraft (Integrated)                    | [05/1](https://youtu.be/k97cns4k3i0)
+| Minecraft (Integrated)                    | [05/1](https://youtu.be/k97cns4k3i0), [07](https://www.youtu.be/BqPaismpTn4)
 | Buckshot Roulette (Integrated)            | [05/1](https://youtu.be/k97cns4k3i0)
 
 ## One-time events
@@ -61,3 +63,4 @@ Also contains games, even if they have not (yet) recurred.
 | IRL stream in Japan                       | [05/2](https://youtu.be/Q47IvKkzV8M)
 | Themed stream: Fishing                    | [06](https://youtu.be/nWMdSHBnlBs)
 | Themed stream: Fortune Telling / Tarot    | [06](https://youtu.be/nWMdSHBnlBs)
+| Twins on Amazon (sub goal)                | [07](https://www.youtu.be/BqPaismpTn4)

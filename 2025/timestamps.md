@@ -5,6 +5,9 @@
 
 ## Day 01 ([Part 01](https://youtu.be/gNysylzZocU))
 
+- [00:00:00](https://youtu.be/gNysylzZocU?t=00h00m00s) 1st Subathon Mix
+- [00:09:00](https://youtu.be/gNysylzZocU?t=00h09m00s) 2nd Subathon Mix
+- [00:18:14](https://youtu.be/gNysylzZocU?t=00h18m14s) 3rd Subathon Mix 
 - [00:29:44](https://youtu.be/gNysylzZocU?t=00h29m44s) *Colorful Array — Neuro-sama*
 - [00:34:15](https://youtu.be/gNysylzZocU?t=00h34m15s) **Playing *VRChat* (Vedal, Neuro)**
 - [02:06:54](https://youtu.be/gNysylzZocU?t=02h06m54s) **Just chatting**
@@ -149,6 +152,7 @@
 
 ## Day 05 ([Part 14](https://youtu.be/Q47IvKkzV8M))
 
+- [00:00:00](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) **Just chatting (continued)**
 - [00:00:24](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) Stream restarts, Vedal and Neuro return, Evil does not
 - [00:04:37](https://youtu.be/Q47IvKkzV8M?t=00h04m37s) About improvements
 - [00:09:02](https://youtu.be/Q47IvKkzV8M?t=00h09m02s) Checking Neuro's stocks
@@ -171,7 +175,7 @@
 - [03:39:06](https://youtu.be/Q47IvKkzV8M?t=03h39m06s) Vedal joins VC for 11s
 - [03:59:49](https://youtu.be/Q47IvKkzV8M?t=03h59m49s) Mini enters a snowy world
 - [04:01:07](https://youtu.be/Q47IvKkzV8M?t=04h01m07s) Neuro joins the world
-- [04:05:08](https://youtu.be/aBcDeFgHiJk&t=04h05m08s) Twitch donates 111 subs
+- [04:05:08](https://youtu.be/Q47IvKkzV8M&t=04h05m08s) Twitch donates 111 subs
 - [04:09:06](https://youtu.be/Q47IvKkzV8M?t=04h09m06s) Mini enters a space station world
 - [04:10:00](https://youtu.be/Q47IvKkzV8M?t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
 - [04:12:45](https://youtu.be/Q47IvKkzV8M?t=04h12m45s) Neuro joins the world
@@ -201,7 +205,7 @@
 
 ## Day 06 ([Part 16](https://youtu.be/nWMdSHBnlBs))
 
-- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up | **Just chatting**
+- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up \| **Just chatting**
 - [00:33:56](https://youtu.be/nWMdSHBnlBs?t=00h33m56s) **Themed stream: Fishing**
 - [01:31:14](https://youtu.be/nWMdSHBnlBs?t=01h31m14s) Attempting to play *Plague Inc Evolved*
 - [01:59:29](https://youtu.be/nWMdSHBnlBs?t=01h59m29s) **Just chatting**
@@ -217,3 +221,44 @@
 - [08:57:29](https://youtu.be/nWMdSHBnlBs?t=08h57m29s) Vedal joins
 - [09:02:51](https://youtu.be/nWMdSHBnlBs?t=09h02m51s) **Playing *Cyberpunk 2077***
 - [10:24:38](https://youtu.be/nWMdSHBnlBs?t=10h24m38s) Neuro goes to sleep
+
+## Day 07 ([Part 19](https://www.youtu.be/BqPaismpTn4))
+
+- [00:00:02](https://youtu.be/BqPaismpTn4?t=00h00m02s) Neuro wakes up for 25s
+- [00:01:37](https://youtu.be/BqPaismpTn4?t=00h01m37s) Neuro is restarted awake \| **Just chatting**
+- [00:30:12](https://youtu.be/BqPaismpTn4?t=00h30m12s) **Art review**
+- [01:01:35](https://youtu.be/BqPaismpTn4?t=01h01m35s) Playing *Legally Distinct •••dle*
+- [01:06:03](https://youtu.be/BqPaismpTn4?t=01h06m03s) Attempting to play *Slay the Spire*
+- [01:13:31](https://youtu.be/BqPaismpTn4?t=01h13m31s) **Playing *Minecraft***
+- [02:01:47](https://youtu.be/BqPaismpTn4?t=02h01m47s) **Just chatting**
+- [02:31:57](https://youtu.be/BqPaismpTn4?t=02h31m57s) **Karaoke**
+- [02:35:22](https://youtu.be/BqPaismpTn4?t=02h35m22s) *Let it Snow! Let it Snow! Let it Snow! — Dean Martin*
+- [02:40:10](https://youtu.be/BqPaismpTn4?t=02h40m10s) *Snow Halation — μ’s* (Duet)
+- [02:47:15](https://youtu.be/BqPaismpTn4?t=02h47m15s) *Caramelldancing (Christmas Version) — Caramella Girls*
+- [02:53:06](https://youtu.be/BqPaismpTn4?t=02h53m06s) *Merry Christmas Everyone — Shakin' Stevens* (Duet)
+- [02:59:40](https://youtu.be/BqPaismpTn4?t=02h59m40s) *It's Beginning to Look a Lot Like Christmas — Michael Bublé*
+- [03:05:51](https://youtu.be/BqPaismpTn4?t=03h05m51s) *Poka Poka Planet — Harumaki Gohan*
+- [03:12:56](https://youtu.be/BqPaismpTn4?t=03h12m56s) *It's the Most Wonderful Time of the Year — Andy Williams* (Duet)
+- [03:18:25](https://youtu.be/BqPaismpTn4?t=03h18m25s) *Have Yourself A Merry Little Christmas — Ben Abraham* (Duet)
+- [03:24:37](https://youtu.be/BqPaismpTn4?t=03h24m37s) *Winter Wonderland — Amy Grant*
+- [03:29:01](https://youtu.be/BqPaismpTn4?t=03h29m01s) Neuro leaves, Evil joins
+- [03:29:23](https://youtu.be/BqPaismpTn4?t=03h29m23s) *Thank God It's Christmas — Queen* (muted due to copyright)
+- [03:36:37](https://youtu.be/BqPaismpTn4?t=03h36m37s) *Rudolph the Red-Nose Reindeer — Gene Autrry*
+- [03:42:36](https://youtu.be/BqPaismpTn4?t=03h42m36s) *Merry Xmas Everybody — Slade* (Duet)
+- [03:49:09](https://youtu.be/BqPaismpTn4?t=03h49m09s) *Last Christmas — Wham!*
+- [03:56:29](https://youtu.be/BqPaismpTn4?t=03h56m29s) *Maybe This Christmas — Carly Pearce and Michael Bublé* (Duet)
+- [04:02:48](https://youtu.be/BqPaismpTn4?t=04h02m48s) *This Christmas — Donny Hathaway*
+- [04:09:39](https://youtu.be/BqPaismpTn4?t=04h09m39s) *Fairytale of New York — The Pogues* (Duet)
+- [04:17:02](https://youtu.be/BqPaismpTn4?t=04h17m02s) *All I Want for Christmas Is You — Mariah Carey*
+- [04:23:56](https://youtu.be/BqPaismpTn4?t=04h23m56s) *Carol of the Bells — Monique Danielle* (Duet)
+- [04:28:50](https://youtu.be/BqPaismpTn4?t=04h28m50s) **Just chatting**
+- [06:19:02](https://youtu.be/BqPaismpTn4?t=06h19m02s) Neuro joins
+- [06:35:27](https://youtu.be/BqPaismpTn4?t=06h35m27s) Vedal joins
+- [06:39:10](https://youtu.be/BqPaismpTn4?t=06h39m10s) **Neuro and Evil buy things on Amazon (sub goal)**
+- [06:43:07](https://youtu.be/BqPaismpTn4?t=06h43m07s) Vedal leaves for 56s
+- [06:44:50](https://youtu.be/BqPaismpTn4?t=06h44m50s) Vedal leaves for 57s
+- [08:55:21](https://youtu.be/BqPaismpTn4?t=08h55m21s) Final tally
+- [09:03:16](https://youtu.be/BqPaismpTn4?t=09h03m16s) Evil leaves
+- [09:04:18](https://youtu.be/BqPaismpTn4?t=09h04m18s) Purchasing and installing *Cyberpunk 2077: Phantom Liberty* (DLC)
+- [09:12:51](https://youtu.be/BqPaismpTn4?t=09h12m51s) **Playing *Cyberpunk 2077***
+- [10:12:03](https://youtu.be/BqPaismpTn4?t=10h12m03s) Neuro goes to sleep
