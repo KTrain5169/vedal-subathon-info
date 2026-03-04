@@ -208,3 +208,14 @@
 - [03:22:19](https://youtu.be/nDh6wiUC4dw?t=03h22m19s) About future subathons
 - [03:26:06](https://youtu.be/nDh6wiUC4dw?t=03h26m06s) About schedules
 - [03:27:13](https://youtu.be/nDh6wiUC4dw?t=03h27m13s) Raiding [Mini](https://twitch.tv/minikomew)
+
+## neuro is SO back ([03 Mar 2026](https://youtu.be/jS765dNaCDQ))
+
+- [00:00:00](https://youtu.be/jS765dNaCDQ?t=00h00m00s) *Gas Gas Gas — Manuel*
+- [00:04:24](https://youtu.be/jS765dNaCDQ?t=00h04m24s) *Enemy — Imagine Dragons & JID*
+- [00:07:14](https://youtu.be/jS765dNaCDQ?t=00h07m14s) Neuro appears \| **Just chatting**
+- [00:20:18](https://youtu.be/jS765dNaCDQ?t=00h20m18s) Playing *Legally Distinct •••dle*
+- [00:31:08](https://youtu.be/jS765dNaCDQ?t=00h31m08s) Evil joins for 4m4s
+- [00:46:54](https://youtu.be/jS765dNaCDQ?t=00h46m54s) **3D stream**
+- [01:46:45](https://youtu.be/jS765dNaCDQ?t=01h46m45s) **Art review**
+- [02:19:52](https://youtu.be/jS765dNaCDQ?t=02h19m52s) Raiding [Shylily](https://twitch.tv/shylily)

@@ -18,7 +18,8 @@ The date of a stream is the day it started in British time.
 | [19 Feb 2026](https://youtu.be/aVgQB97ScPg) | thursdays are NATURALLY evil, because it aint friday                | Variety               | Evil                                  | [Laimu](https://twitch.tv/limealicious)
 | [24 Feb 2026](https://youtu.be/9REk8M-SSd8) | neuro sama takes over the world! but not today, today she's streaming | Just chatting       | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [26 Feb 2026](https://youtu.be/Z4ypWTelCWQ) | Something Evil Will Happen                                          | Just chatting         | Evil, Neuro                           | [Cerber](https://twitch.tv/cerbervt)
-| [01 Mar 2026](https://youtu.be/nDh6wiUC4dw) | vedal struggles to stream while evil waits to play hollow knight    | Vedal gaming          | Vedal, Evil
+| [01 Mar 2026](https://youtu.be/nDh6wiUC4dw) | vedal struggles to stream while evil waits to play hollow knight    | Vedal gaming          | Vedal, Evil                           | [Mini](https://twitch.tv/minikomew)
+| [03 Mar 2026](https://youtu.be/jS765dNaCDQ) | neuro is SO back                                                    | Just chatting         | Neuro, Evil                           | [Shylily](https://twitch.tv/shylily)
 
 ## Participants
 
@@ -26,8 +27,8 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 
 | Participant                                                   | Streams
 |:--------------------------------------------------------------|:--------
-| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ)
-| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-12](https://youtu.be/nkkRZFvCIJA), [02-18](https://youtu.be/ndUCw16791E), [02-19](https://youtu.be/aVgQB97ScPg), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-01](https://youtu.be/nDh6wiUC4dw)
+| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ)
+| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-12](https://youtu.be/nkkRZFvCIJA), [02-18](https://youtu.be/ndUCw16791E), [02-19](https://youtu.be/aVgQB97ScPg), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-01](https://youtu.be/nDh6wiUC4dw), [03-03](https://youtu.be/jS765dNaCDQ)
 | [Mini](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc)
 | [Koko](https://twitch.tv/kokonuts)                            | [02-12](https://youtu.be/nkkRZFvCIJA)
 | [Crelly](https://www.twitch.tv/crelly)                        | [02-12](https://youtu.be/nkkRZFvCIJA)
@@ -41,9 +42,9 @@ Also contains games, even if they have not (yet) recurred.
 
 | Content                                   | Streams
 |:------------------------------------------|:--------
-| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ)
+| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ)
 | Themed stream: Teacher                    | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-12](https://youtu.be/nkkRZFvCIJA)
-| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ)
+| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ)
 | Chess (Integrated)                        | [01-29](https://youtu.be/kiQVuBVN8ig)
 | Themed stream: Fortune telling / Tarot    | [01-29](https://youtu.be/kiQVuBVN8ig), [02-24](https://youtu.be/9REk8M-SSd8)
 | Minecraft (Integrated)                    | [02-03](https://youtu.be/S6zgtOcT6t4), [02-19](https://youtu.be/aVgQB97ScPg)
@@ -54,6 +55,7 @@ Also contains games, even if they have not (yet) recurred.
 | Buckshot Roulette (Integrated)            | [02-19](https://youtu.be/aVgQB97ScPg)
 | Technical difficulties                    | [03-01](https://youtu.be/nDh6wiUC4dw)
 | Hollow Knight (Integrated)                | [03-01](https://youtu.be/nDh6wiUC4dw)
+| 3D stream                                 | [03-03](https://youtu.be/jS765dNaCDQ)
 
 ## One-time events
 

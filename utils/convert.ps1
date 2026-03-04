@@ -1,10 +1,18 @@
 param (
-    [Parameter(Mandatory=$true)][string]$Link,
-    [Parameter(Mandatory=$true)][string]$File
+    [Parameter(Mandatory=$false)][string]$Link,
+    [Parameter(Mandatory=$true)][string]$File,
+    [Parameter(Mandatory=$false)][switch]$Auto
 )
 
+if ($Auto) {
+    $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
+    $fetched = $fetched -split "::"
+    $videoTitle = $fetched[0]
+    $videoId = $fetched[1]
+    $Link = Get-Clipboard
+}
 # Extract video ID from the link
-if ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
+elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
     $videoId = $matches[1]
 } elseif ($Link -match 'youtu\.be/([a-zA-Z0-9_-]{11})') {
     $videoId = $matches[1]
@@ -15,10 +23,20 @@ if ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
 
 $content=Get-Content $File
 
+# Title
+if ($videoTitle) {
+    $videoTitle, $date = $videoTitle -split ' - ', -2
+    # TODO: Prefix day with 0 if it's a single digit
+    $date = $date -replace '(\d+) (\w{3})\w* (\d+)', '$1 $2 $3'
+    $content = $content -replace '^##\s*$', "## $videoTitle ([$date](https://youtu.be/$videoId))"
+}
+
 # Markdown links
-$newContent = $content -replace '(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
+$content = $content -replace '(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
 
 # Escape pipes
-$newContent = $newContent -replace '(?<!\\)\|', '\|'
+$content = $content -replace '(?<!\\)\|', '\|'
 
-Set-Content -Path $File -Value $newContent
+# TODO: Auto-process raid targets + add line to table
+
+Set-Content -Path $File -Value $content
