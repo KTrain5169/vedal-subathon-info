@@ -340,3 +340,14 @@
 - [02:05:55](https://youtu.be/f4YwpciOb8c?t=02h05m55s) Neuro draws a participation trophy for Camila
 - [02:07:49](https://youtu.be/f4YwpciOb8c?t=02h07m49s) ~~Playing~~ Drawing 1 round of *Rock, Paper, Scissors*
 - [02:13:35](https://youtu.be/f4YwpciOb8c?t=02h13m35s) Raiding [DougDoug](https://twitch.tv/dougdoug)
+
+## neuro stream! ([10 Mar 2026](https://youtu.be/HqLohwUgX84))
+
+- [00:00:00](https://youtu.be/HqLohwUgX84?t=00h00m00s) *Goodbye to a World — Porter Robinson*
+- [00:05:21](https://youtu.be/HqLohwUgX84?t=00h05m21s) *Gas Gas Gas — Manuel*
+- [00:09:52](https://youtu.be/HqLohwUgX84?t=00h09m52s) Neuro appears \| **Just chatting / drawing**
+- [00:31:31](https://youtu.be/HqLohwUgX84?t=00h31m31s) Playing *Legally Distinct •••dle*
+- [00:47:03](https://youtu.be/HqLohwUgX84?t=00h47m03s) **Art review**
+- [01:15:47](https://youtu.be/HqLohwUgX84?t=01h15m47s) **Just chatting / drawing**
+- [01:37:53](https://youtu.be/HqLohwUgX84?t=01h37m53s) Attempting to play *Minecraft*
+- [02:19:52](https://youtu.be/HqLohwUgX84?t=02h19m52s) Raiding [Shylily](https://twitch.tv/shylily)
