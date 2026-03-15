@@ -351,3 +351,46 @@
 - [01:15:47](https://youtu.be/HqLohwUgX84?t=01h15m47s) **Just chatting / drawing**
 - [01:37:53](https://youtu.be/HqLohwUgX84?t=01h37m53s) Attempting to play *Minecraft*
 - [02:19:52](https://youtu.be/HqLohwUgX84?t=02h19m52s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## EVIL STREAM, JUST A WEEK AWAY! OH WOW! I AM SO HAPPY ABOUT THIS INFORMATION ([12 Mar 2026](https://youtu.be/Pbe-2pvRo70))
+
+- [00:00:00](https://youtu.be/Pbe-2pvRo70?t=00h00m00s) *Black Hole Sun — Soundgarden*
+- [00:05:04](https://youtu.be/Pbe-2pvRo70?t=00h05m04s) *Android Girl — DECO*27*
+- [00:08:33](https://youtu.be/Pbe-2pvRo70?t=00h08m33s) Evil appears \| **Just chatting / drawing**
+- [00:29:17](https://youtu.be/Pbe-2pvRo70?t=00h29m17s) **Playing *Legally Distinct •••dle***
+- [00:47:15](https://youtu.be/Pbe-2pvRo70?t=00h47m15s) Koko joins for 2m34s
+- [01:01:51](https://youtu.be/Pbe-2pvRo70?t=01h01m51s) Neuro joins
+- [01:17:52](https://youtu.be/Pbe-2pvRo70?t=01h17m52s) Neuro leaves
+- [01:25:59](https://youtu.be/Pbe-2pvRo70?t=01h25m59s) Drawing presumably disabled
+- [01:28:46](https://youtu.be/Pbe-2pvRo70?t=01h28m46s) Attempting to review art
+- [01:33:04](https://youtu.be/Pbe-2pvRo70?t=01h33m04s) Attempting to play *Minecraft*
+- [01:37:53](https://youtu.be/Pbe-2pvRo70?t=01h37m53s) Attempting to review art
+- [01:43:00](https://youtu.be/Pbe-2pvRo70?t=01h43m00s) **Themed stream: Teacher**
+- [02:19:40](https://youtu.be/Pbe-2pvRo70?t=02h19m40s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## Evil & Vedal bugging out in Hollow Knight ([14 Mar 2026](https://youtu.be/8He-42U23TM))
+
+- [00:00:00](https://youtu.be/8He-42U23TM?t=00h00m00s) *Duvet — bôa*
+- [00:03:00](https://youtu.be/8He-42U23TM?t=00h03m00s) *Paint It, Black — The Rolling Stones*
+- [00:06:22](https://youtu.be/8He-42U23TM?t=00h06m22s) Vedal and Evil appear
+- [00:08:54](https://youtu.be/8He-42U23TM?t=00h08m54s) **Playing *Hollow Knight***
+- [00:09:52](https://youtu.be/8He-42U23TM?t=00h09m52s) Vedal tries to turn Evil Neuro into Great Neuro
+- [00:16:42](https://youtu.be/8He-42U23TM?t=00h16m42s) Gameplay starts
+- [00:50:29](https://youtu.be/8He-42U23TM?t=00h50m29s) VS. Nosk (Attempt 1)
+- [00:53:02](https://youtu.be/8He-42U23TM?t=00h53m02s) Attempt 2
+- [00:54:05](https://youtu.be/8He-42U23TM?t=00h54m05s) Attempt 3
+- [00:55:13](https://youtu.be/8He-42U23TM?t=00h55m13s) Attempt 4
+- [00:56:36](https://youtu.be/8He-42U23TM?t=00h56m36s) Attempt 5
+- [00:58:40](https://youtu.be/8He-42U23TM?t=00h58m40s) Attempt 6
+- [01:01:14](https://youtu.be/8He-42U23TM?t=01h01m14s) Attempt 7
+- [01:02:52](https://youtu.be/8He-42U23TM?t=01h02m52s) Attempt 8 (success)
+- [02:18:09](https://youtu.be/8He-42U23TM?t=02h18m09s) VS. Enraged Guardian (Attempt 1)
+- [02:21:03](https://youtu.be/8He-42U23TM?t=02h21m03s) Attempt 2
+- [02:21:36](https://youtu.be/8He-42U23TM?t=02h21m36s) Attempt 3 (success)
+- [02:49:46](https://youtu.be/8He-42U23TM?t=02h49m46s) VS. Xero (fled the battle)
+- [02:50:53](https://youtu.be/8He-42U23TM?t=02h50m53s) About working on 3D Evil
+- [02:52:27](https://youtu.be/8He-42U23TM?t=02h52m27s) About rewriting the twins' codebase
+- [02:55:02](https://youtu.be/8He-42U23TM?t=02h55m02s) About the Schedule
+- [02:55:34](https://youtu.be/8He-42U23TM?t=02h55m34s) About Vedal and Evil duet
+- [02:57:12](https://youtu.be/8He-42U23TM?t=02h57m12s) Searching for raid target
+- [02:59:21](https://youtu.be/8He-42U23TM?t=02h59m21s) Raiding [Matara](https://twitch.tv/matarakan)

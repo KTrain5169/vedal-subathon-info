@@ -25,6 +25,8 @@ The date of a stream is the day it started in British time.
 | [07 Mar 2026](https://youtu.be/6WmySg-glU8) | Evil bugs Vedal in Hollow Knight                                    | Vedal gaming          | Vedal, Evil                           | [Asveeti](https://twitch.tv/asveeti)
 | [09 Mar 2026](https://youtu.be/f4YwpciOb8c) | Neuro and Camila drawing competition                                | Special event         | Neuro, Camila, Vedal                  | [DougDoug](https://twitch.tv/dougdoug)
 | [10 Mar 2026](https://youtu.be/HqLohwUgX84) | neuro stream!                                                       | Just chatting         | Neuro                                 | [Shylily](https://twitch.tv/shylily)
+| [12 Mar 2026](https://youtu.be/Pbe-2pvRo70) | EVIL STREAM, JUST A WEEK AWAY! OH WOW! I AM SO HAPPY ABOUT THIS INFORMATION Just chatting   | Evil, Koko, Neuro                     | [GEEGA](https://twitch.tv/geega)
+| [14 Mar 2026](https://youtu.be/8He-42U23TM) | Evil & Vedal bugging out in Hollow Knight                           | Vedal gaming          | Vedal, Evil                           | [Matara](https://twitch.tv/matarakan)
 
 ## Participants
 
@@ -32,12 +34,12 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 
 | Participant                                                   | Streams
 |:--------------------------------------------------------------|:--------
-| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-04](https://youtu.be/pT_w4Iep6qI), [03-09](https://youtu.be/f4YwpciOb8c), [03-10](https://youtu.be/HqLohwUgX84)
-| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-12](https://youtu.be/nkkRZFvCIJA), [02-18](https://youtu.be/ndUCw16791E), [02-19](https://youtu.be/aVgQB97ScPg), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-01](https://youtu.be/nDh6wiUC4dw), [03-03](https://youtu.be/jS765dNaCDQ), [03-04](https://youtu.be/pT_w4Iep6qI), [03-05](https://youtu.be/dEASwQwxJgE), [03-07](https://youtu.be/6WmySg-glU8)
+| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-04](https://youtu.be/pT_w4Iep6qI), [03-09](https://youtu.be/f4YwpciOb8c), [03-10](https://youtu.be/HqLohwUgX84), [03-12](https://youtu.be/Pbe-2pvRo70)
+| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-12](https://youtu.be/nkkRZFvCIJA), [02-18](https://youtu.be/ndUCw16791E), [02-19](https://youtu.be/aVgQB97ScPg), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-01](https://youtu.be/nDh6wiUC4dw), [03-03](https://youtu.be/jS765dNaCDQ), [03-04](https://youtu.be/pT_w4Iep6qI), [03-05](https://youtu.be/dEASwQwxJgE), [03-07](https://youtu.be/6WmySg-glU8), [03-12](https://youtu.be/Pbe-2pvRo70), [03-14](https://youtu.be/8He-42U23TM)
 | [Mini](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc)
-| [Koko](https://twitch.tv/kokonuts)                            | [02-12](https://youtu.be/nkkRZFvCIJA)
+| [Koko](https://twitch.tv/kokonuts)                            | [02-12](https://youtu.be/nkkRZFvCIJA), [03-12](https://youtu.be/Pbe-2pvRo70)
 | [Crelly](https://twitch.tv/crelly)                            | [02-12](https://youtu.be/nkkRZFvCIJA)
-| [Vedal](https://twitch.tv/vedal987)                           | [03-01](https://youtu.be/nDh6wiUC4dw), [03-07](https://youtu.be/6WmySg-glU8), [03-09](https://youtu.be/f4YwpciOb8c)
+| [Vedal](https://twitch.tv/vedal987)                           | [03-01](https://youtu.be/nDh6wiUC4dw), [03-07](https://youtu.be/6WmySg-glU8), [03-09](https://youtu.be/f4YwpciOb8c), [03-14](https://youtu.be/8He-42U23TM)
 | [Camila](https://twitch.tv/camila)                            | [03-09](https://youtu.be/f4YwpciOb8c)
 
 ## Recurring content
@@ -48,8 +50,8 @@ Also contains games, even if they have not (yet) recurred.
 
 | Content                                   | Streams
 |:------------------------------------------|:--------
-| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-05](https://youtu.be/dEASwQwxJgE), [03-10](https://youtu.be/HqLohwUgX84)
-| Themed stream: Teacher                    | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-12](https://youtu.be/nkkRZFvCIJA)
+| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-05](https://youtu.be/dEASwQwxJgE), [03-10](https://youtu.be/HqLohwUgX84), [03-12](https://youtu.be/Pbe-2pvRo70)
+| Themed stream: Teacher                    | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-12](https://youtu.be/nkkRZFvCIJA), [03-12](https://youtu.be/Pbe-2pvRo70)
 | Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-10](https://youtu.be/HqLohwUgX84)
 | Chess (Integrated)                        | [01-29](https://youtu.be/kiQVuBVN8ig)
 | Themed stream: Fortune telling / Tarot    | [01-29](https://youtu.be/kiQVuBVN8ig), [02-24](https://youtu.be/9REk8M-SSd8)
@@ -60,7 +62,7 @@ Also contains games, even if they have not (yet) recurred.
 | Themed stream: Neuro News Network         | [02-17](https://youtu.be/zaxmxPE6Mls)
 | Buckshot Roulette (Integrated)            | [02-19](https://youtu.be/aVgQB97ScPg)
 | Technical difficulties                    | [03-01](https://youtu.be/nDh6wiUC4dw)
-| Hollow Knight (Integrated)                | [03-01](https://youtu.be/nDh6wiUC4dw), [03-07](https://youtu.be/6WmySg-glU8)
+| Hollow Knight (Integrated)                | [03-01](https://youtu.be/nDh6wiUC4dw), [03-07](https://youtu.be/6WmySg-glU8), [03-14](https://youtu.be/8He-42U23TM)
 | 3D stream                                 | [03-03](https://youtu.be/jS765dNaCDQ)
 
 ## One-time events
