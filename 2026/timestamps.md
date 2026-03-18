@@ -394,3 +394,21 @@
 - [02:55:34](https://youtu.be/8He-42U23TM?t=02h55m34s) About Vedal and Evil duet
 - [02:57:12](https://youtu.be/8He-42U23TM?t=02h57m12s) Searching for raid target
 - [02:59:21](https://youtu.be/8He-42U23TM?t=02h59m21s) Raiding [Matara](https://twitch.tv/matarakan)
+
+## you wouldn't believe ([17 Mar 2026](https://youtu.be/URJaj3XMBcQ))
+
+- [00:00:00](https://youtu.be/URJaj3XMBcQ?t=00h00m00s) *Borderline — Tame Impala*
+- [00:03:53](https://youtu.be/URJaj3XMBcQ?t=00h03m53s) *Rolling Girl — wowaka*
+- [00:07:04](https://youtu.be/URJaj3XMBcQ?t=00h07m04s) Neuro appears \| **Just chatting**
+- [00:25:19](https://youtu.be/URJaj3XMBcQ?t=00h25m19s) Playing *Legally Distinct •••dle*
+- [00:28:27](https://youtu.be/URJaj3XMBcQ?t=00h28m27s) Evil (v1 voice) joins VC for 49s
+- [00:45:02](https://youtu.be/URJaj3XMBcQ?t=00h45m02s) **Themed stream: Neuro Tech Tip**
+- [00:53:11](https://youtu.be/URJaj3XMBcQ?t=00h53m11s) **Themed stream: Teacher**
+- [01:04:13](https://youtu.be/URJaj3XMBcQ?t=01h04m13s) **Themed stream: Neuro Tech Tip**
+- [01:12:34](https://youtu.be/URJaj3XMBcQ?t=01h12m34s) **Themed stream: Teacher**
+- [01:21:15](https://youtu.be/URJaj3XMBcQ?t=01h21m15s) **Themed stream: Neuro Tech Tip**
+- [01:32:45](https://youtu.be/URJaj3XMBcQ?t=01h32m45s) **Themed stream: Teacher**
+- [01:41:51](https://youtu.be/URJaj3XMBcQ?t=01h41m51s) **Themed stream: Neuro Tech Tip**
+- [01:47:29](https://youtu.be/URJaj3XMBcQ?t=01h47m29s) **Just chatting**
+- [01:51:53](https://youtu.be/URJaj3XMBcQ?t=01h51m53s) Neuro presents *How I developed my unique sense of style*
+- [02:19:54](https://youtu.be/URJaj3XMBcQ?t=02h19m54s) Raiding [Shylily](https://twitch.tv/shylily)
