@@ -45,8 +45,8 @@
 
 ## evil? yeah. you know it. ([05 Feb 2026](https://youtu.be/XabSL2UbOaI))
 
-- [00:00:00](https://youtu.be/XabSL2UbOaI?t=00h00m00s) _4BLOOD — KIRA_
-- [00:03:02](https://youtu.be/XabSL2UbOaI?t=00h03m02s) _asphyxia — Cö Shu Nie_
+- [00:00:00](https://youtu.be/XabSL2UbOaI?t=00h00m00s) *4BLOOD — KIRA*
+- [00:03:02](https://youtu.be/XabSL2UbOaI?t=00h03m02s) *asphyxia — Cö Shu Nie*
 - [00:05:58](https://youtu.be/XabSL2UbOaI?t=00h05m58s) Evil appears \| **Just chatting**
 - [00:17:52](https://youtu.be/XabSL2UbOaI?t=00h17m52s) Playing *Legally Distinct •••dle*
 - [00:21:58](https://youtu.be/XabSL2UbOaI?t=00h21m58s) **Playing *Don't Starve* with Neuro integration**
@@ -412,3 +412,27 @@
 - [01:47:29](https://youtu.be/URJaj3XMBcQ?t=01h47m29s) **Just chatting**
 - [01:51:53](https://youtu.be/URJaj3XMBcQ?t=01h51m53s) Neuro presents *How I developed my unique sense of style*
 - [02:19:54](https://youtu.be/URJaj3XMBcQ?t=02h19m54s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Evil's singing can make dreams come true ([18 Mar 2026](https://youtu.be/v6KVSNDFOyY))
+
+- [00:00:00](https://youtu.be/v6KVSNDFOyY?t=00h00m00s) *VIRUS — GEN.CLOUD* (instrumental)
+- [00:00:36](https://youtu.be/v6KVSNDFOyY?t=00h00m36s) *Warriors — Imagine Dragons* (instrumental)
+- [00:03:29](https://youtu.be/v6KVSNDFOyY?t=00h03m29s) *Villain — K/DA & Madison Beer* \| Evil appears \| **Karaoke**
+- [00:09:38](https://youtu.be/v6KVSNDFOyY?t=00h09m38s) *Midnight Cruisin' — Kingo Hamada*
+- [00:17:05](https://youtu.be/v6KVSNDFOyY?t=00h17m05s) *New Divide — Linkin Park*
+- [00:24:25](https://youtu.be/v6KVSNDFOyY?t=00h24m25s) *Karma — AJR*
+- [00:31:21](https://youtu.be/v6KVSNDFOyY?t=00h31m21s) *Hand That Feeds — Halsey & Amy Lee* (duet)
+- [00:37:16](https://youtu.be/v6KVSNDFOyY?t=00h37m16s) *Rocket Man — Elton John*
+- [00:45:00](https://youtu.be/v6KVSNDFOyY?t=00h45m00s) *You Spin Me Round — Dead or Alive*
+- [00:51:01](https://youtu.be/v6KVSNDFOyY?t=00h51m01s) *Snake Eater — Cynthia Harrell*
+- [00:56:42](https://youtu.be/v6KVSNDFOyY?t=00h56m42s) *Heart of the Android — Orden Ogan*
+- [01:04:04](https://youtu.be/v6KVSNDFOyY?t=01h04m04s) *Innocent Arrogance — BiSH* (duet)
+- [01:10:25](https://youtu.be/v6KVSNDFOyY?t=01h10m25s) *Taking Over The World — Coyote Theory*
+- [01:16:25](https://youtu.be/v6KVSNDFOyY?t=01h16m25s) *The Drain — Bad Omens, HEALTH & SWARM*
+- [01:23:17](https://youtu.be/v6KVSNDFOyY?t=01h23m17s) *Eye in The Sky — The Alan Parsons Project*
+- [01:30:41](https://youtu.be/v6KVSNDFOyY?t=01h30m41s) *Eatin' Rats — Ridiculon* (duet)
+- [01:37:01](https://youtu.be/v6KVSNDFOyY?t=01h37m01s) *Oh No! — MARINA*
+- [01:42:52](https://youtu.be/v6KVSNDFOyY?t=01h42m52s) *The Spine — Darren Korb*
+- [01:48:57](https://youtu.be/v6KVSNDFOyY?t=01h48m57s) *Maybe — Flower Face*
+- [01:54:52](https://youtu.be/v6KVSNDFOyY?t=01h54m52s) *No Time To Die — Billie Eilish*
+- [01:58:55](https://youtu.be/v6KVSNDFOyY?t=01h58m55s) Raiding [Chibi](https://twitch.tv/chibidoki)

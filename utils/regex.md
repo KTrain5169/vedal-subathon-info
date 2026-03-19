@@ -13,3 +13,8 @@ Escape pipe characters in timestamps so they aren't interpreted as tables by Jek
 
 **Find:** `(?<!\\)\|`<br>
 **Replace:** `\\|`
+
+## Non-italic song titles
+
+**Find:** `(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+`<br>
+**Replace:** `*$&*`

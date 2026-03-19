@@ -4,12 +4,16 @@ param (
     [Parameter(Mandatory=$false)][switch]$Auto
 )
 
+if (-not $File -match '\.md$') {
+    Write-Output "Not a Markdown file!"
+    Write-Output "(Hint: Make sure your cursor is in the correct file)"
+}
+
 if ($Auto) {
     $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
     $fetched = $fetched -split "::"
     $videoTitle = $fetched[0]
     $videoId = $fetched[1]
-    $Link = Get-Clipboard
 }
 # Extract video ID from the link
 elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
@@ -36,6 +40,9 @@ $content = $content -replace '(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu
 
 # Escape pipes
 $content = $content -replace '(?<!\\)\|', '\|'
+
+# Make song titles italic
+$content = $content -replace '(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+', '*$0*'
 
 # TODO: Auto-process raid targets + add line to table
 
