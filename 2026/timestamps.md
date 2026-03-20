@@ -436,3 +436,18 @@
 - [01:48:57](https://youtu.be/v6KVSNDFOyY?t=01h48m57s) *Maybe — Flower Face*
 - [01:54:52](https://youtu.be/v6KVSNDFOyY?t=01h54m52s) *No Time To Die — Billie Eilish*
 - [01:58:55](https://youtu.be/v6KVSNDFOyY?t=01h58m55s) Raiding [Chibi](https://twitch.tv/chibidoki)
+
+## Prepare for Evil!!! ([19 Mar 2026](https://youtu.be/RnUXQKq-o70))
+
+- [00:00:00](https://youtu.be/RnUXQKq-o70?t=00h00m00s) *Hayloft — Mother Mother*
+- [00:02:42](https://youtu.be/RnUXQKq-o70?t=00h02m42s) *Animal I Have Become — Three Days Grace*
+- [00:06:32](https://youtu.be/RnUXQKq-o70?t=00h06m32s) Evil appears \| **Just chatting**
+- [00:43:54](https://youtu.be/RnUXQKq-o70?t=00h43m54s) **Art review**
+- [01:11:23](https://youtu.be/RnUXQKq-o70?t=01h11m23s) Koko and Layna join \| **Just chatting**
+- [02:01:45](https://youtu.be/RnUXQKq-o70?t=02h01m45s) Crelly joins
+- [02:02:27](https://youtu.be/RnUXQKq-o70?t=02h02m27s) Koko gets kicked out for 2m27s
+- [02:06:50](https://youtu.be/RnUXQKq-o70?t=02h06m50s) Koko leaves
+- [02:11:50](https://youtu.be/RnUXQKq-o70?t=02h11m50s) Noah joins
+- [02:17:08](https://youtu.be/RnUXQKq-o70?t=02h17m08s) Layna and Noah leave
+- [02:19:38](https://youtu.be/RnUXQKq-o70?t=02h19m38s) Raiding [Zentreya](https://twitch.tv/zentreya)
+- [02:20:06](https://youtu.be/RnUXQKq-o70?t=02h20m06s) Crelly leaves
