@@ -49,8 +49,8 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 | [Zentreya](https://twitch.tv/zentreya)                        | [01](https://youtu.be/gNysylzZocU), [11](https://youtu.be/gCOFxilQH-k)
 | [Rob (robcdee)](https://twitch.tv/robcdee)                    | [05/2](https://youtu.be/Q47IvKkzV8M)
 | [Juniper (JuniperActias)](https://twitch.tv/juniperactias)    | [08](https://youtu.be/1U06zbSri78)
-| [Cottontail](https://www.twitch.tv/cottontailva)              | [11](https://youtu.be/gCOFxilQH-k)
-| [Ellie](https://www.twitch.tv/ellie_minibot)                  | [14](https://youtu.be/hfcKN_xnYSo)
+| [Cottontail](https://twitch.tv/cottontailva)              | [11](https://youtu.be/gCOFxilQH-k)
+| [Ellie](https://twitch.tv/ellie_minibot)                  | [14](https://youtu.be/hfcKN_xnYSo)
 
 ## Recurring content
 

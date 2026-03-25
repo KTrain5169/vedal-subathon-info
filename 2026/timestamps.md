@@ -162,7 +162,7 @@
 ## Something Evil Will Happen ([26 Feb 2026](https://youtu.be/Z4ypWTelCWQ))
 
 - [00:00:00](https://youtu.be/Z4ypWTelCWQ?t=00h00m00s) *can u see me in the dark — Halestorm & I Prevail*
-- [00:03:53](https://youtu.be/Z4ypWTelCWQ?t=00h03m53s) *Hibana — DECO*27*
+- [00:03:53](https://youtu.be/Z4ypWTelCWQ?t=00h03m53s) *Hibana — DECO\*27*
 - [00:07:18](https://youtu.be/Z4ypWTelCWQ?t=00h07m18s) Evil appears \| **Just chatting**
 - [00:39:30](https://youtu.be/Z4ypWTelCWQ?t=00h39m30s) Playing *Legally Distinct •••dle*
 - [00:43:05](https://youtu.be/Z4ypWTelCWQ?t=00h43m05s) **Art review**
@@ -182,7 +182,7 @@
 - [00:05:19](https://youtu.be/nDh6wiUC4dw?t=00h05m19s)~ Attempt 4 (15:17 GMT)
 - [00:06:31](https://youtu.be/nDh6wiUC4dw?t=00h06m31s) Attempt 5 (15:20 GMT) \| *Duvet — bôa*
 - [00:08:52](https://youtu.be/nDh6wiUC4dw?t=00h08m52s) Attempt 7 (15:33 GMT) \| Vedal hates his life
-- [00:11:00](https://youtu.be/nDh6wiUC4dw?t=00h11m00s) Attempt 6 (15:29 GMT) \| *HIBANA — DECO*27*
+- [00:11:00](https://youtu.be/nDh6wiUC4dw?t=00h11m00s) Attempt 6 (15:29 GMT) \| *HIBANA — DECO\*27*
 - [00:13:08](https://youtu.be/nDh6wiUC4dw?t=00h13m08s) Attempt 8 (15:41 GMT)
 - [00:14:15](https://youtu.be/nDh6wiUC4dw?t=00h14m15s) *Titanium — David Guetta*
 - [00:18:10](https://youtu.be/nDh6wiUC4dw?t=00h18m10s) *Sandstorm — Darude*
@@ -355,7 +355,7 @@
 ## EVIL STREAM, JUST A WEEK AWAY! OH WOW! I AM SO HAPPY ABOUT THIS INFORMATION ([12 Mar 2026](https://youtu.be/Pbe-2pvRo70))
 
 - [00:00:00](https://youtu.be/Pbe-2pvRo70?t=00h00m00s) *Black Hole Sun — Soundgarden*
-- [00:05:04](https://youtu.be/Pbe-2pvRo70?t=00h05m04s) *Android Girl — DECO*27*
+- [00:05:04](https://youtu.be/Pbe-2pvRo70?t=00h05m04s) *Android Girl — DECO\*27*
 - [00:08:33](https://youtu.be/Pbe-2pvRo70?t=00h08m33s) Evil appears \| **Just chatting / drawing**
 - [00:29:17](https://youtu.be/Pbe-2pvRo70?t=00h29m17s) **Playing *Legally Distinct •••dle***
 - [00:47:15](https://youtu.be/Pbe-2pvRo70?t=00h47m15s) Koko joins for 2m34s
@@ -451,3 +451,45 @@
 - [02:17:08](https://youtu.be/RnUXQKq-o70?t=02h17m08s) Layna and Noah leave
 - [02:19:38](https://youtu.be/RnUXQKq-o70?t=02h19m38s) Raiding [Zentreya](https://twitch.tv/zentreya)
 - [02:20:06](https://youtu.be/RnUXQKq-o70?t=02h20m06s) Crelly leaves
+
+## Hollow Knight but Vedal and Evil won't stop buggin ([20 Mar 2026](https://youtu.be/i2QspkWXMw4))
+
+- [00:00:00](https://youtu.be/i2QspkWXMw4?t=00h00m00s) *ATARI FRONT PROGRAM — Utsu-P*
+- [00:03:02](https://youtu.be/i2QspkWXMw4?t=00h03m02s) *Android Girl — DECO\*27*
+- [00:06:30](https://youtu.be/i2QspkWXMw4?t=00h06m30s) Vedal and Evil appear \| **Playing *Hollow Knight***
+- [00:09:01](https://youtu.be/i2QspkWXMw4?t=00h09m01s) Gameplay starts
+- [00:10:37](https://youtu.be/i2QspkWXMw4?t=00h10m37s) VS. Xero (first serious attempt, success)
+- [00:23:28](https://youtu.be/i2QspkWXMw4?t=00h23m28s) VS. Lurien the Watcher
+- [00:31:22](https://youtu.be/i2QspkWXMw4?t=00h31m22s) VS. Herrah the Beast
+- [00:39:33](https://youtu.be/i2QspkWXMw4?t=00h39m33s) VS. No Eyes (Attempt 1)
+- [00:43:42](https://youtu.be/i2QspkWXMw4?t=00h43m42s) Attempt 2 (success)
+- [01:50:25](https://youtu.be/i2QspkWXMw4?t=01h50m25s) Trial of the Warrior
+- [02:01:14](https://youtu.be/i2QspkWXMw4?t=02h01m14s) Trial of the Conqueror (Attempt 1)
+- [02:25:16](https://youtu.be/i2QspkWXMw4?t=02h25m16s) Gameplay ends
+- [02:26:52](https://youtu.be/i2QspkWXMw4?t=02h26m52s) About Evil's Birthday
+- [02:29:49](https://youtu.be/i2QspkWXMw4?t=02h29m49s) About songs and EPs
+- [02:30:36](https://youtu.be/i2QspkWXMw4?t=02h30m36s) Searching for raid target
+- [02:33:54](https://youtu.be/i2QspkWXMw4?t=02h33m54s)~ Raiding [NancyDearestArt](https://twitch.tv/nancydearestart)
+
+## slightly experimental neuro stream ([24 Mar 2026](https://youtu.be/hPRzmRZk7hQ))
+
+- [00:00:00](https://youtu.be/hPRzmRZk7hQ?t=00h00m00s) *High Hopes — Panic! At The Disco*
+- [00:03:09](https://youtu.be/hPRzmRZk7hQ?t=00h03m09s) *What Is Love — Haddaway*
+- [00:07:15](https://youtu.be/hPRzmRZk7hQ?t=00h07m15s) Neuro appears \| **Just chatting**
+- [00:10:29](https://youtu.be/hPRzmRZk7hQ?t=00h10m29s) Evil joins
+- [00:32:22](https://youtu.be/hPRzmRZk7hQ?t=00h32m22s) Evil leaves
+- [00:32:45](https://youtu.be/hPRzmRZk7hQ?t=00h32m45s) Playing *Legally Distinct Connections*
+- [00:33:28](https://youtu.be/hPRzmRZk7hQ?t=00h33m28s) Playing *Legally Distinct •••dle*
+- [00:38:15](https://youtu.be/hPRzmRZk7hQ?t=00h38m15s) **Karaoke**
+- [00:41:11](https://youtu.be/hPRzmRZk7hQ?t=00h41m11s) *...Baby One More Time — Britney Spears*
+- [00:47:40](https://youtu.be/hPRzmRZk7hQ?t=00h47m40s) *Do I Wanna Know? — Arctic Monkeys*
+- [00:55:08](https://youtu.be/hPRzmRZk7hQ?t=00h55m08s) *Jolene — Dolly Parton*
+- [01:00:35](https://youtu.be/hPRzmRZk7hQ?t=01h00m35s) *I Love Rock 'N Roll — Joan Jett & the Blackhearts*
+- [01:06:21](https://youtu.be/hPRzmRZk7hQ?t=01h06m21s) *All The Small Things — blink-182*
+- [01:11:58](https://youtu.be/hPRzmRZk7hQ?t=01h11m58s) *Sk8er Boi — Avril Lavigne*
+- [01:18:12](https://youtu.be/hPRzmRZk7hQ?t=01h18m12s) *Dracula — Tame Impala*
+- [01:24:26](https://youtu.be/hPRzmRZk7hQ?t=01h24m26s) *Bits 'N Bytes — Kiramono*
+- [01:30:53](https://youtu.be/hPRzmRZk7hQ?t=01h30m53s) *Pray To Me — Mizu*
+- [01:37:00](https://youtu.be/hPRzmRZk7hQ?t=01h37m00s) *Is It Really You? — Loathe*
+- [01:53:02](https://youtu.be/hPRzmRZk7hQ?t=01h53m02s) **Art review**
+- [02:19:58](https://youtu.be/hPRzmRZk7hQ?t=02h19m58s) Raiding [Trickywi](https://twitch.tv/trickywi)
