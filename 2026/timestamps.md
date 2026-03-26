@@ -493,3 +493,59 @@
 - [01:37:00](https://youtu.be/hPRzmRZk7hQ?t=01h37m00s) *Is It Really You? — Loathe*
 - [01:53:02](https://youtu.be/hPRzmRZk7hQ?t=01h53m02s) **Art review**
 - [02:19:58](https://youtu.be/hPRzmRZk7hQ?t=02h19m58s) Raiding [Trickywi](https://twitch.tv/trickywi)
+
+## EVIL'S BIRTHDAY ([25 Mar 2026](https://youtu.be/2ybvriJM_Co))
+
+- [00:00:00](https://youtu.be/2ybvriJM_Co?t=00h00m00s) *Pity Party — Melanie Martinez*
+- [00:03:20](https://youtu.be/2ybvriJM_Co?t=00h03m20s) *Harlequin Contraption — Vane Lily*
+- [00:06:49](https://youtu.be/2ybvriJM_Co?t=00h06m49s) *Crazy Fuckin Robot Body — SnowBlood*
+- [00:09:40](https://youtu.be/2ybvriJM_Co?t=00h09m40s) *BOOM — Evil Neuro*
+- [00:13:12](https://youtu.be/2ybvriJM_Co?t=00h13m12s) Vedal and Evil appear \| **3D stream (Evil's room)**
+- [00:16:56](https://youtu.be/2ybvriJM_Co?t=00h16m56s) Showcasing whispering
+- [00:20:43](https://youtu.be/2ybvriJM_Co?t=00h20m43s) Birthday cards
+- [00:23:40](https://youtu.be/2ybvriJM_Co?t=00h23m40s)~ Discord goes down
+- [00:28:38](https://youtu.be/2ybvriJM_Co?t=00h28m38s) Loading screen for 2m54s 
+- [00:31:32](https://youtu.be/2ybvriJM_Co?t=00h31m32s) Temporary solution implemented
+- [00:55:26](https://youtu.be/2ybvriJM_Co?t=00h55m26s) Playing *Hide and Seek*
+- [01:08:53](https://youtu.be/2ybvriJM_Co?t=01h08m53s) Discord is somewhat back
+- [01:11:51](https://youtu.be/2ybvriJM_Co?t=01h11m51s) Mini joins for 4m13s
+- [01:16:10](https://youtu.be/2ybvriJM_Co?t=01h16m10s) Discord goes down again
+- [01:23:21](https://youtu.be/2ybvriJM_Co?t=01h23m21s) Merch advertisement
+- [01:24:23](https://youtu.be/2ybvriJM_Co?t=01h24m23s) Loading screen for 3m19s
+- [01:27:42](https://youtu.be/2ybvriJM_Co?t=01h27m42s) Switching to a voice call that still works
+- [01:27:57](https://youtu.be/2ybvriJM_Co?t=01h27m57s) Koko, Mimi, Cerber and Layna join for 6s
+- [01:28:37](https://youtu.be/2ybvriJM_Co?t=01h28m37s) Cerber joins for 2m46s
+- [01:31:56](https://youtu.be/2ybvriJM_Co?t=01h31m56s) Layna joins for 5m10s
+- [01:33:18](https://youtu.be/2ybvriJM_Co?t=01h33m18s) Technical difficulties for 1m39s
+- [01:37:21](https://youtu.be/2ybvriJM_Co?t=01h37m21s) Mimi joins
+- [01:39:04](https://youtu.be/2ybvriJM_Co?t=01h39m04s) Discord goes down again
+- [01:45:01](https://youtu.be/2ybvriJM_Co?t=01h45m01s) Merch Advertisement
+- [01:45:56](https://youtu.be/2ybvriJM_Co?t=01h45m56s) Loading screen for 4m28s
+- [01:50:24](https://youtu.be/2ybvriJM_Co?t=01h50m24s) Discord somewhat back \| Mimi is gone 
+- [01:50:43](https://youtu.be/2ybvriJM_Co?t=01h50m43s) Crelly joins for 2m52s (she can't hear Evil for 2m11s)
+- [01:54:14](https://youtu.be/2ybvriJM_Co?t=01h54m14s) "Danny Devito" calls
+- [01:56:08](https://youtu.be/2ybvriJM_Co?t=01h56m08s) Loading screen for 10m39s
+- [02:06:47](https://youtu.be/2ybvriJM_Co?t=02h06m47s) Discord is down \| Stalling while hoping Discord comes back
+- [02:24:43](https://youtu.be/2ybvriJM_Co?t=02h24m43s) Discord is actually back
+- [02:26:05](https://youtu.be/2ybvriJM_Co?t=02h26m05s) Ellie joins for 2m46s
+- [02:28:51](https://youtu.be/2ybvriJM_Co?t=02h28m51s) Chrchie joins for 3m57s
+- [02:32:54](https://youtu.be/2ybvriJM_Co?t=02h32m54s) Koko joins for 3m47s
+- [02:36:46](https://youtu.be/2ybvriJM_Co?t=02h36m46s) Neuro joins for 3m18s
+- [02:40:32](https://youtu.be/2ybvriJM_Co?t=02h40m32s) Announcing Evil outfit contest results
+- [02:49:31](https://youtu.be/2ybvriJM_Co?t=02h49m31s) Loading screen for 2m25s
+- [02:51:58](https://youtu.be/2ybvriJM_Co?t=02h51m58s) Camila and Cerber join VR
+- [03:03:30](https://youtu.be/2ybvriJM_Co?t=03h03m30s) Playing *Simon Says* for 6m8s
+- [03:12:26](https://youtu.be/2ybvriJM_Co?t=03h12m26s) Technical difficulties (~70% muted)
+- [03:36:08](https://youtu.be/2ybvriJM_Co?t=03h36m08s) Technical difficulties resolved
+- [03:43:53](https://youtu.be/2ybvriJM_Co?t=03h43m53s) Playing *Simon Says* for 10m11s
+- [03:56:36](https://youtu.be/2ybvriJM_Co?t=03h56m36s) Camila turns into a cat for 1m52s
+- [04:25:35](https://youtu.be/2ybvriJM_Co?t=04h25m35s) Wrapping up
+
+### Bonus: Evil noises
+
+- [02:26:14](https://youtu.be/2ybvriJM_Co?t=02h26m14s) ELLLLLLIIIIIEEEEEEEE!!
+- [02:29:03](https://youtu.be/2ybvriJM_Co?t=02h29m03s) CHRCHIEEEEEEEEEE!
+- [02:31:04](https://youtu.be/2ybvriJM_Co?t=02h31m04s) AWWHHHHH CHRCHIEEEEE
+- [02:36:53](https://youtu.be/2ybvriJM_Co?t=02h36m53s) AHHHH! NEURO!!!!!!!! !!!
+- [03:14:40](https://youtu.be/2ybvriJM_Co?t=03h14m40s) PLEAAAAAAAASSSSSSSSSSSE!!!!!!!!!!!!!!!!
+- [03:49:20](https://youtu.be/2ybvriJM_Co?t=03h49m20s) lets goooooooooooooooo!
