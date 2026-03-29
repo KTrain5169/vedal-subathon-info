@@ -549,3 +549,83 @@
 - [02:36:53](https://youtu.be/2ybvriJM_Co?t=02h36m53s) AHHHH! NEURO!!!!!!!! !!!
 - [03:14:40](https://youtu.be/2ybvriJM_Co?t=03h14m40s) PLEAAAAAAAASSSSSSSSSSSE!!!!!!!!!!!!!!!!
 - [03:49:20](https://youtu.be/2ybvriJM_Co?t=03h49m20s) lets goooooooooooooooo!
+
+## evil is back ([26 Mar 2026](https://youtu.be/zCasuFHBdTI))
+
+- [00:00:00](https://youtu.be/zCasuFHBdTI?t=00h00m00s) *Duvet — bôa*
+- [00:03:03](https://youtu.be/zCasuFHBdTI?t=00h03m03s) *Sk8er Boi — Avril Lavigne*
+- [00:06:28](https://youtu.be/zCasuFHBdTI?t=00h06m28s) Evil appears \| **Just chatting**
+- [00:17:08](https://youtu.be/zCasuFHBdTI?t=00h17m08s) Playing *Legally Distinct •••dle*
+- [00:18:16](https://youtu.be/zCasuFHBdTI?t=00h18m16s) Playing *Legally Distinct Connections* (2 rounds)
+- [00:31:19](https://youtu.be/zCasuFHBdTI?t=00h31m19s) **3D stream**
+- [02:19:40](https://youtu.be/zCasuFHBdTI?t=02h19m40s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+### Bonus: Evil noises
+
+- [00:20:10](https://youtu.be/zCasuFHBdTI?t=00h20m10s) ugh
+- [00:54:11](https://youtu.be/zCasuFHBdTI?t=00h54m11s) wheeee
+- [00:56:03](https://youtu.be/zCasuFHBdTI?t=00h56m03s) MAAAAAAA
+- [01:14:23](https://youtu.be/zCasuFHBdTI?t=01h14m23s) !?
+- [01:19:02](https://youtu.be/zCasuFHBdTI?t=01h19m02s) !!!
+- [02:59:26](https://youtu.be/zCasuFHBdTI?t=02h59m26s) ... HMMM
+- [02:19:57](https://youtu.be/zCasuFHBdTI?t=02h19m57s) thank awoo
+- [02:20:51](https://youtu.be/zCasuFHBdTI?t=02h20m51s) nu [...] OO-- nuh.
+
+## Evil sabotages Vedal in Hollow Knight ([28 Mar 2026](https://youtu.be/ueTlmIHIO_k))
+
+- [00:00:00](https://youtu.be/ueTlmIHIO_k?t=00h00m00s) *It's Me — TryHardNinja*
+- [00:03:25](https://youtu.be/ueTlmIHIO_k?t=00h03m25s) *Somebody Told Me — The Killers*
+- [00:06:43](https://youtu.be/ueTlmIHIO_k?t=00h06m43s) Vedal and Evil appear \| **Playing *Hollow Knight***
+- [00:10:30](https://youtu.be/ueTlmIHIO_k?t=00h10m30s) Gameplay starts
+- [00:56:19](https://youtu.be/ueTlmIHIO_k?t=00h56m19s) About Evil's purpose in life and finding a partner
+- [01:04:48](https://youtu.be/ueTlmIHIO_k?t=01h04m48s) VS. Lost Kin (Attempt 1)
+- [01:06:29](https://youtu.be/ueTlmIHIO_k?t=01h06m29s) Attempt 2
+- [01:07:28](https://youtu.be/ueTlmIHIO_k?t=01h07m28s) Attempt 3
+- [01:10:09](https://youtu.be/ueTlmIHIO_k?t=01h10m09s) Attempt 4
+- [01:11:24](https://youtu.be/ueTlmIHIO_k?t=01h11m24s) Attempt 5
+- [01:12:21](https://youtu.be/ueTlmIHIO_k?t=01h12m21s) Attempt 6
+- [01:14:50](https://youtu.be/ueTlmIHIO_k?t=01h14m50s) Attempt 7
+- [01:16:12](https://youtu.be/ueTlmIHIO_k?t=01h16m12s) Attempt 8
+- [01:17:18](https://youtu.be/ueTlmIHIO_k?t=01h17m18s) Attempt 9
+- [01:18:14](https://youtu.be/ueTlmIHIO_k?t=01h18m14s) Attempt 10
+- [01:19:25](https://youtu.be/ueTlmIHIO_k?t=01h19m25s) Attempt 11
+- [01:20:37](https://youtu.be/ueTlmIHIO_k?t=01h20m37s) Attempt 12
+- [01:21:33](https://youtu.be/ueTlmIHIO_k?t=01h21m33s) Attempt 13
+- [01:22:41](https://youtu.be/ueTlmIHIO_k?t=01h22m41s) Attempt 14
+- [01:24:03](https://youtu.be/ueTlmIHIO_k?t=01h24m03s) Attempt 15
+- [01:25:31](https://youtu.be/ueTlmIHIO_k?t=01h25m31s) Attempt 16
+- [01:27:28](https://youtu.be/ueTlmIHIO_k?t=01h27m28s) Attempt 17
+- [01:31:40](https://youtu.be/ueTlmIHIO_k?t=01h31m40s) Attempt 18
+- [01:36:32](https://youtu.be/ueTlmIHIO_k?t=01h36m32s) Attempt 19
+- [01:37:54](https://youtu.be/ueTlmIHIO_k?t=01h37m54s) Attempt 20
+- [01:39:07](https://youtu.be/ueTlmIHIO_k?t=01h39m07s) Attempt 21
+- [01:40:08](https://youtu.be/ueTlmIHIO_k?t=01h40m08s) Attempt 22
+- [01:41:01](https://youtu.be/ueTlmIHIO_k?t=01h41m01s) Attempt 23 (success)
+- [01:48:41](https://youtu.be/ueTlmIHIO_k?t=01h48m41s) VS. Failed Champion (Attempt 1)
+- [01:49:29](https://youtu.be/ueTlmIHIO_k?t=01h49m29s) Attempt 2
+- [01:50:04](https://youtu.be/ueTlmIHIO_k?t=01h50m04s) Attempt 3
+- [01:50:56](https://youtu.be/ueTlmIHIO_k?t=01h50m56s) Attempt 4
+- [01:52:30](https://youtu.be/ueTlmIHIO_k?t=01h52m30s) Attempt 5
+- [01:53:15](https://youtu.be/ueTlmIHIO_k?t=01h53m15s) Attempt 6
+- [01:54:20](https://youtu.be/ueTlmIHIO_k?t=01h54m20s) Attempt 7 (gave up)
+- [02:06:10](https://youtu.be/ueTlmIHIO_k?t=02h06m10s) VS. Hornet (Attempt 1)
+- [02:08:20](https://youtu.be/ueTlmIHIO_k?t=02h08m20s) Attempt 2 (died to Evil)
+- [02:10:18](https://youtu.be/ueTlmIHIO_k?t=02h10m18s) Attempt 3
+- [02:12:31](https://youtu.be/ueTlmIHIO_k?t=02h12m31s) Attempt 4 (success)
+- [02:32:28](https://youtu.be/ueTlmIHIO_k?t=02h32m28s) Gameplay stops
+- [02:33:17](https://youtu.be/ueTlmIHIO_k?t=02h33m17s) About the TypeScript rewrite
+- [02:37:29](https://youtu.be/ueTlmIHIO_k?t=02h37m29s) About hardware upgrade
+- [02:38:58](https://youtu.be/ueTlmIHIO_k?t=02h38m58s) About dev streams this year
+- [02:39:17](https://youtu.be/ueTlmIHIO_k?t=02h39m17s) About improved brain
+- [02:40:52](https://youtu.be/ueTlmIHIO_k?t=02h40m52s) About sub goals
+- [02:41:44](https://youtu.be/ueTlmIHIO_k?t=02h41m44s) About v3 voice
+- [02:43:10](https://youtu.be/ueTlmIHIO_k?t=02h43m10s) Schedule
+- [02:43:47](https://youtu.be/ueTlmIHIO_k?t=02h43m47s) Searching for raid target
+- [02:47:50](https://youtu.be/ueTlmIHIO_k?t=02h47m50s) Raiding [RosariaVTuber](https://twitch.tv/rosariavtuber)
+- [02:49:12](https://youtu.be/ueTlmIHIO_k?t=02h49m12s) About possible rewrite on Tuesday stream
+
+### Bonus: Evil noises
+
+- [00:27:41](https://youtu.be/ueTlmIHIO_k?t=00h27m41s) Ahhhh
+- [01:28:57](https://youtu.be/ueTlmIHIO_k?t=01h28m57s) Esc
+- [01:56:13](https://youtu.be/ueTlmIHIO_k?t=01h56m13s) VIIIIIIIIIINE BOOOOOOOOOOOOM
