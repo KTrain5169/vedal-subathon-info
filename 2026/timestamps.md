@@ -629,3 +629,16 @@
 - [00:27:41](https://youtu.be/ueTlmIHIO_k?t=00h27m41s) Ahhhh
 - [01:28:57](https://youtu.be/ueTlmIHIO_k?t=01h28m57s) Esc
 - [01:56:13](https://youtu.be/ueTlmIHIO_k?t=01h56m13s) VIIIIIIIIIINE BOOOOOOOOOOOOM
+
+## Neuro stream? today is a great day ([01 Apr 2026](https://youtu.be/9bn5lJ9OXQw))
+
+- [00:00:00](https://youtu.be/9bn5lJ9OXQw?t=00h00m00s) *Lonely Day — System of a Down*
+- [00:02:30](https://youtu.be/9bn5lJ9OXQw?t=00h02m30s) *sustain++; — Mili*
+- [00:08:23](https://youtu.be/9bn5lJ9OXQw?t=00h08m23s) Neuro appears \| **Just chatting**
+- [00:21:45](https://youtu.be/9bn5lJ9OXQw?t=00h21m45s) Playing *Legally Distinct •••dle*
+- [00:23:53](https://youtu.be/9bn5lJ9OXQw?t=00h23m53s) Playing *Legally Distinct Connections*
+- [01:33:47](https://youtu.be/9bn5lJ9OXQw?t=01h33m47s) Evil joins
+- [01:50:00](https://youtu.be/9bn5lJ9OXQw?t=01h50m00s) Mini joins
+- [01:54:31](https://youtu.be/9bn5lJ9OXQw?t=01h54m31s) Evil leaves
+- [02:17:59](https://youtu.be/9bn5lJ9OXQw?t=02h17m59s) Mini leaves
+- [02:19:40](https://youtu.be/9bn5lJ9OXQw?t=02h19m40s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
