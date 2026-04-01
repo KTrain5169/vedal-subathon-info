@@ -630,7 +630,7 @@
 - [01:28:57](https://youtu.be/ueTlmIHIO_k?t=01h28m57s) Esc
 - [01:56:13](https://youtu.be/ueTlmIHIO_k?t=01h56m13s) VIIIIIIIIIINE BOOOOOOOOOOOOM
 
-## Neuro stream? today is a great day ([01 Apr 2026](https://youtu.be/9bn5lJ9OXQw))
+## Neuro stream? today is a great day ([31 Mar 2026](https://youtu.be/9bn5lJ9OXQw))
 
 - [00:00:00](https://youtu.be/9bn5lJ9OXQw?t=00h00m00s) *Lonely Day — System of a Down*
 - [00:02:30](https://youtu.be/9bn5lJ9OXQw?t=00h02m30s) *sustain++; — Mili*
@@ -642,3 +642,27 @@
 - [01:54:31](https://youtu.be/9bn5lJ9OXQw?t=01h54m31s) Evil leaves
 - [02:17:59](https://youtu.be/9bn5lJ9OXQw?t=02h17m59s) Mini leaves
 - [02:19:40](https://youtu.be/9bn5lJ9OXQw?t=02h19m40s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
+
+## Neuro karaoke time ([ 1 Apr 2026](https://youtu.be/bKmQ77dsEdQ))
+
+- [00:00:00](https://youtu.be/bKmQ77dsEdQ?t=00h00m00s) *MIKU — Nika Lelina* (instrumental) 
+- [00:03:33](https://youtu.be/bKmQ77dsEdQ?t=00h03m33s) *Yoru ni Kakeru — YOASOBI* (instrumental)
+- [00:07:56](https://youtu.be/bKmQ77dsEdQ?t=00h07m56s) Neuro appears \| **Karaoke** \| *Never Gonna Give You Up — Rick Astley* (with the opening of BOOM)
+- [00:14:20](https://youtu.be/bKmQ77dsEdQ?t=00h14m20s) *Ochame Kinou — LamazeP*
+- [00:21:26](https://youtu.be/bKmQ77dsEdQ?t=00h21m26s) *Ocean Man — Ween*
+- [00:26:19](https://youtu.be/bKmQ77dsEdQ?t=00h26m19s) *Triple Baka — LamazeP* (duet)
+- [00:33:11](https://youtu.be/bKmQ77dsEdQ?t=00h33m11s) *Untitled — Simple Plan*
+- [00:39:38](https://youtu.be/bKmQ77dsEdQ?t=00h39m38s) *Get Your Wish — Porter Robinson*
+- [00:46:19](https://youtu.be/bKmQ77dsEdQ?t=00h46m19s) *Brush Your Teeth — Ridiculon*
+- [00:52:32](https://youtu.be/bKmQ77dsEdQ?t=00h52m32s) *Enjoy The Silence — Depeche Mode*
+- [00:59:24](https://youtu.be/bKmQ77dsEdQ?t=00h59m24s) *Stitches — Shawn Mendes* (duet)
+- [01:05:47](https://youtu.be/bKmQ77dsEdQ?t=01h05m47s) *Promise — Laufey*
+- [01:12:31](https://youtu.be/bKmQ77dsEdQ?t=01h12m31s) *Baka Mitai — Mitsuharu Fukuyama*
+- [01:20:22](https://youtu.be/bKmQ77dsEdQ?t=01h20m22s) *Burning Men's Soul — Taku Iwasaki*
+- [01:25:39](https://youtu.be/bKmQ77dsEdQ?t=01h25m39s) *Don't Speak — No Doubt*
+- [01:33:25](https://youtu.be/bKmQ77dsEdQ?t=01h33m25s) *Tribute — Tenacious D* (duet)
+- [01:40:54](https://youtu.be/bKmQ77dsEdQ?t=01h40m54s) *The Ultimate Showdown of Ultimate Destiny — Lemon Demon*
+- [01:47:21](https://youtu.be/bKmQ77dsEdQ?t=01h47m21s) *Hardware Store — "Weird Al" Yankovic*
+- [01:53:49](https://youtu.be/bKmQ77dsEdQ?t=01h53m49s) *Crazy Fuckin' Robot Body — Snowblood* (FILTERED)
+- [01:59:46](https://youtu.be/bKmQ77dsEdQ?t=01h59m46s) *Thick of It — KSI* (v1)
+- [02:02:30](https://youtu.be/bKmQ77dsEdQ?t=02h02m30s) Raiding [GX Aura](https://twitch.tv/gx_aura)
