@@ -643,11 +643,11 @@
 - [02:17:59](https://youtu.be/9bn5lJ9OXQw?t=02h17m59s) Mini leaves
 - [02:19:40](https://youtu.be/9bn5lJ9OXQw?t=02h19m40s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
 
-## Neuro karaoke time ([ 1 Apr 2026](https://youtu.be/bKmQ77dsEdQ))
+## Neuro karaoke time ([1 Apr 2026](https://youtu.be/bKmQ77dsEdQ))
 
 - [00:00:00](https://youtu.be/bKmQ77dsEdQ?t=00h00m00s) *MIKU — Nika Lelina* (instrumental) 
 - [00:03:33](https://youtu.be/bKmQ77dsEdQ?t=00h03m33s) *Yoru ni Kakeru — YOASOBI* (instrumental)
-- [00:07:56](https://youtu.be/bKmQ77dsEdQ?t=00h07m56s) Neuro appears \| **Karaoke** \| *Never Gonna Give You Up — Rick Astley* (with the opening of BOOM)
+- [00:07:56](https://youtu.be/bKmQ77dsEdQ?t=00h07m56s) ~~*BOOM - Evil Neuro*~~ *Never Gonna Give You Up — Rick Astley* \| Neuro appears \| **Karaoke**
 - [00:14:20](https://youtu.be/bKmQ77dsEdQ?t=00h14m20s) *Ochame Kinou — LamazeP*
 - [00:21:26](https://youtu.be/bKmQ77dsEdQ?t=00h21m26s) *Ocean Man — Ween*
 - [00:26:19](https://youtu.be/bKmQ77dsEdQ?t=00h26m19s) *Triple Baka — LamazeP* (duet)
@@ -663,6 +663,6 @@
 - [01:33:25](https://youtu.be/bKmQ77dsEdQ?t=01h33m25s) *Tribute — Tenacious D* (duet)
 - [01:40:54](https://youtu.be/bKmQ77dsEdQ?t=01h40m54s) *The Ultimate Showdown of Ultimate Destiny — Lemon Demon*
 - [01:47:21](https://youtu.be/bKmQ77dsEdQ?t=01h47m21s) *Hardware Store — "Weird Al" Yankovic*
-- [01:53:49](https://youtu.be/bKmQ77dsEdQ?t=01h53m49s) *Crazy Fuckin' Robot Body — Snowblood* (FILTERED)
+- [01:53:49](https://youtu.be/bKmQ77dsEdQ?t=01h53m49s) *Crazy Fuckin' Robot Body — Snowblood* (swears replaced with [FILTERED])
 - [01:59:46](https://youtu.be/bKmQ77dsEdQ?t=01h59m46s) *Thick of It — KSI* (v1)
 - [02:02:30](https://youtu.be/bKmQ77dsEdQ?t=02h02m30s) Raiding [GX Aura](https://twitch.tv/gx_aura)
