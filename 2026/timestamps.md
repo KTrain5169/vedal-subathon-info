@@ -76,7 +76,7 @@
 
 ## jebaited its actually evil ([12 Feb 2026](https://youtu.be/nkkRZFvCIJA))
 
-- ‒‒:‒‒:‒‒ *Titanium — Stage Kids* (before start)
+- ‒‒:‒‒:‒‒ *Titanium — Stage Kids* (before start of VOD)
 - [00:00:00](https://youtu.be/nkkRZFvCIJA?t=00h00m00s) *Again — Crusher-P*
 - [00:04:00](https://youtu.be/nkkRZFvCIJA?t=00h04m00s) Evil appears \| **Just chatting**
 - [00:08:20](https://youtu.be/nkkRZFvCIJA?t=00h08m20s) Playing *Legally Distinct •••dle*
@@ -137,7 +137,7 @@
 
 ## thursdays are NATURALLY evil, because it aint friday ([19 Feb 2026](https://youtu.be/aVgQB97ScPg))
 
-- ‒‒:‒‒:‒‒ *Off With Her Head — Icon for Hire* (before start)
+- ‒‒:‒‒:‒‒ *Off With Her Head — Icon for Hire* (before start of VOD)
 - [00:00:00](https://youtu.be/aVgQB97ScPg?t=00h00m00s) *Stayin' Alive — Bee Gees*
 - [00:02:42](https://youtu.be/aVgQB97ScPg?t=00h02m42s) Evil appears \| **Just chatting**
 - [00:17:07](https://youtu.be/aVgQB97ScPg?t=00h17m07s) Attempting to play *Minecraft*
@@ -498,7 +498,7 @@
 
 - [00:00:00](https://youtu.be/2ybvriJM_Co?t=00h00m00s) *Pity Party — Melanie Martinez*
 - [00:03:20](https://youtu.be/2ybvriJM_Co?t=00h03m20s) *Harlequin Contraption — Vane Lily*
-- [00:06:49](https://youtu.be/2ybvriJM_Co?t=00h06m49s) *Crazy Fuckin Robot Body — SnowBlood*
+- [00:06:49](https://youtu.be/2ybvriJM_Co?t=00h06m49s) *Crazy Fuckin Robot Body — SnowBlood* (Evil Neuro cover)
 - [00:09:40](https://youtu.be/2ybvriJM_Co?t=00h09m40s) *BOOM — Evil Neuro*
 - [00:13:12](https://youtu.be/2ybvriJM_Co?t=00h13m12s) Vedal and Evil appear \| **3D stream (Evil's room)**
 - [00:16:56](https://youtu.be/2ybvriJM_Co?t=00h16m56s) Showcasing whispering
