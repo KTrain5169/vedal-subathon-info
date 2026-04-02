@@ -643,11 +643,11 @@
 - [02:17:59](https://youtu.be/9bn5lJ9OXQw?t=02h17m59s) Mini leaves
 - [02:19:40](https://youtu.be/9bn5lJ9OXQw?t=02h19m40s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
 
-## Neuro karaoke time ([1 Apr 2026](https://youtu.be/bKmQ77dsEdQ))
+## Neuro karaoke time ([01 Apr 2026](https://youtu.be/bKmQ77dsEdQ))
 
 - [00:00:00](https://youtu.be/bKmQ77dsEdQ?t=00h00m00s) *MIKU — Nika Lelina* (instrumental) 
 - [00:03:33](https://youtu.be/bKmQ77dsEdQ?t=00h03m33s) *Yoru ni Kakeru — YOASOBI* (instrumental)
-- [00:07:56](https://youtu.be/bKmQ77dsEdQ?t=00h07m56s) ~~*BOOM - Evil Neuro*~~ *Never Gonna Give You Up — Rick Astley* \| Neuro appears \| **Karaoke**
+- [00:07:56](https://youtu.be/bKmQ77dsEdQ?t=00h07m56s) ~~*BOOM — Evil Neuro*~~ *Never Gonna Give You Up — Rick Astley* \| Neuro appears \| **Karaoke**
 - [00:14:20](https://youtu.be/bKmQ77dsEdQ?t=00h14m20s) *Ochame Kinou — LamazeP*
 - [00:21:26](https://youtu.be/bKmQ77dsEdQ?t=00h21m26s) *Ocean Man — Ween*
 - [00:26:19](https://youtu.be/bKmQ77dsEdQ?t=00h26m19s) *Triple Baka — LamazeP* (duet)
