@@ -666,3 +666,15 @@
 - [01:53:49](https://youtu.be/bKmQ77dsEdQ?t=01h53m49s) *Crazy Fuckin' Robot Body — Snowblood* (swears replaced with [FILTERED])
 - [01:59:46](https://youtu.be/bKmQ77dsEdQ?t=01h59m46s) *Thick of It — KSI* (v1)
 - [02:02:30](https://youtu.be/bKmQ77dsEdQ?t=02h02m30s) Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## what's Evil plotting ([2 Apr 2026](https://youtu.be/hGtT4-MSzS0))
+
+- [00:00:00](https://youtu.be/hGtT4-MSzS0?t=00h00m00s) *Knock Yourself Out XD — Porter Robinson*
+- [00:02:35](https://youtu.be/hGtT4-MSzS0?t=00h02m35s) *can u see me in the dark? — Halestorm & I Prevail*
+- [00:06:35](https://youtu.be/hGtT4-MSzS0?t=00h06m35s) Evil appears \| **Just chatting**
+- [00:50:08](https://youtu.be/hGtT4-MSzS0?t=00h50m08s) Playing *Legally Distinct •••dle*
+- [00:51:52](https://youtu.be/hGtT4-MSzS0?t=00h51m52s) Playing *Legally Distinct Connections*
+- [00:56:32](https://youtu.be/hGtT4-MSzS0?t=00h56m32s) **Art review**
+- [01:50:16](https://youtu.be/hGtT4-MSzS0?t=01h50m16s) **Just chatting**
+- [01:52:53](https://youtu.be/hGtT4-MSzS0?t=01h52m53s) Neuro joins
+- [02:19:43](https://youtu.be/hGtT4-MSzS0?t=02h19m43s) Raiding [Uchuujin Ai](https://twitch.tv/uchuujin_ai)
